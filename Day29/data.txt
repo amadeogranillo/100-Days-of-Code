@@ -1,0 +1,3 @@
+Amazon | amadeo@gmail.com | 12345
+Google | amadeo@gmail.com | qwertz
+Amazon | amadeo@gmail.com | asdasd
